@@ -15,13 +15,13 @@ http://www.xunta.gal/dog/Publicados/2016/20160620/AnuncioG0164-070616-0004_gl.ht
 
 ## APLICACIÓN
 
-Para poder despois usar estes códigos no portal da Xunta (https://www.edu.xunta.es/cadp/prv/PeticionsIn.do debemos realizar os seguintes pasos:
+Para poder despois usar estes códigos no portal da Xunta ( https://www.edu.xunta.es/cadp/prv/PeticionsIn.do ) debemos realizar os seguintes pasos:
 
 * Copiamos toda a columa de códigos seleccionados e pegámolos na caixa de texto da esquerda en http://delim.co/
 * Pulsamos a flecha que sinala para a dereita
 * Agora creará un novo texto cos mesmos códigos, pero en vez de un en cada liña, todos en liña separados por comas
 * Copiamos ese listado de códigos
-* Abrimos o arquivo javascript.html en calquera navegador (doble click)
+* Abrimos o arquivo [javascript.html](https://rawgit.com/eusonlito/eleccion-centro-academico/master/2016/secundaria/javascript.html) en calquera navegador (doble click)
 * Donde pon `// AQUI VAI O LISTADO DE CODIGOS ESCOLLIDOS SEPARADOS PORCOMAS`, borramos eso e nesa liña pegamos os códigos, quedando algo como:
 
 ```js
@@ -40,7 +40,7 @@ $.each(ids, function(i, id) {
 
 * Hai que fixarse que o listado non acabe en coma
 * Agora copiamos o contido dese cadro de texto
-* Abrimos a web da Xunta con Google Chrome e vamos á sección donde se engaden os centros ("Peticións")
+* Abrimos a web da Xunta con Google Chrome ( https://www.edu.xunta.es/cadp/prv/PeticionsIn.do ) e vamos á sección donde se engaden os centros ("Peticións")
 * Escollemos o corpo de participación, Especialidade, Línguas, Afín, Itinerante e a opción de `debe engadirse ao final da lista`
 * Agora pulsamos a tecla `F12` e abrirase un apartado no navegador que pon `Consola`
 * Pegamos o código anterior aquí e dámoslle a Intro

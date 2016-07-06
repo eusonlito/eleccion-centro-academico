@@ -42,6 +42,7 @@ $.each(ids, function(i, id) {
 * Agora copiamos o contido dese cadro de texto
 * Abrimos a web da Xunta con Google Chrome ( https://www.edu.xunta.es/cadp/prv/PeticionsIn.do ) e vamos á sección donde se engaden os centros ("Peticións")
 * Escollemos o `Corpo de participación`, `Especialidade`, `Línguas`, `Afín`, `Itinerante` e a opción de `debe engadirse ao final da lista`
+* Debemos ter o listado de selección actualmente baleiro, se xa hai algúns escollidos debemos borralos para evitar problemas
 * Agora pulsamos a tecla `F12` e abrirase un apartado no navegador que pon `Consola`
 * Pegamos o código anterior aquí e dámoslle a Intro
 * Se todo foi ben, veremos todos os centros no listado. Revisamos e gardamos

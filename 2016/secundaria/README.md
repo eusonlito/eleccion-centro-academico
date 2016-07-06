@@ -9,9 +9,9 @@ http://www.xunta.gal/dog/Publicados/2016/20160620/AnuncioG0164-070616-0004_gl.ht
 * Descargar o documento de LibreOffice
 * Cubrir os centros desexados na segunda folla de "Escollidos", columna de "Escollido"
 * O resto dos campos xa se cubren de xeito automático
-* * O campo de orde cúbrese según se vaian engadindo códigos
-* * Si seleccionamos un código de centro, cubrirá os datos completos
-* * Si seleccionamos un código de localidade, cubrirá só os datos da localidade
+ * O campo de orde cúbrese según se vaian engadindo códigos
+ * Si seleccionamos un código de centro, cubrirá os datos completos
+ * Si seleccionamos un código de localidade, cubrirá só os datos da localidade
 
 ## APLICACIÓN
 

@@ -7,7 +7,7 @@ http://www.xunta.gal/dog/Publicados/2016/20160620/AnuncioG0164-070616-0004_gl.ht
 ## USO
 
 * Descargar o documento de LibreOffice [centros.ods](https://rawgit.com/eusonlito/eleccion-centro-academico/master/2016/secundaria/centros.ods)
-* Cubrir os centros desexados na segunda folla de "Escollidos", columna de "Escollido"
+* Cubrir os centros desexados na segunda folla de `Escollidos`, columna de `Escollido`
 * O resto dos campos xa se cubren de xeito automático
  * O campo de orde cúbrese según se vaian engadindo códigos
  * Si seleccionamos un código de centro, cubrirá os datos completos
@@ -22,7 +22,7 @@ Para poder despois usar estes códigos no portal da Xunta ( https://www.edu.xunt
 * Agora creará un novo texto cos mesmos códigos, pero en vez de un en cada liña, todos en liña separados por comas
 * Copiamos ese listado de códigos
 * Abrimos o arquivo [javascript.html](https://rawgit.com/eusonlito/eleccion-centro-academico/master/2016/secundaria/javascript.html) en calquera navegador (doble click)
-* Donde pon `// AQUI VAI O LISTADO DE CODIGOS ESCOLLIDOS SEPARADOS PORCOMAS`, borramos eso e nesa liña pegamos os códigos, quedando algo como:
+* Donde pon `// AQUI VAI O LISTADO DE CODIGOS ESCOLLIDOS SEPARADOS POR COMAS`, borramos eso e nesa liña pegamos os códigos, quedando algo como:
 
 ```js
 var ids = Array.from(new Set([

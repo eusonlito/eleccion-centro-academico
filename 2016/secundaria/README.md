@@ -6,7 +6,7 @@ http://www.xunta.gal/dog/Publicados/2016/20160620/AnuncioG0164-070616-0004_gl.ht
 
 ## USO
 
-* Descargar o documento de LibreOffice
+* Descargar o documento de LibreOffice [centros.ods](https://rawgit.com/eusonlito/eleccion-centro-academico/master/2016/secundaria/centros.ods)
 * Cubrir os centros desexados na segunda folla de "Escollidos", columna de "Escollido"
 * O resto dos campos xa se cubren de xeito automático
  * O campo de orde cúbrese según se vaian engadindo códigos

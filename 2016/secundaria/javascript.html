@@ -1,0 +1,16 @@
+<html>
+<body>
+<textarea style="width:100%; height:100%;">
+var ids = Array.from(new Set([
+    // AQUI VAI O LISTADO DE CODIGOS ESCOLLIDOS SEPARADOS POR COMAS
+]));
+
+var $centro = $('input[name="cenloc"]');
+var $enviar = $('input[name="DIALOG-EVENT-aplicarCambio"]');
+
+$.each(ids, function(i, id) {
+    $centro.attr('value', id);
+    aplicarCambio();
+});
+</textarea>
+</body>

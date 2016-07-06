@@ -21,7 +21,7 @@ Para poder despois usar estes códigos no portal da Xunta ( https://www.edu.xunt
 * Pulsamos a flecha que sinala para a dereita
 * Agora creará un novo texto cos mesmos códigos, pero en vez de un en cada liña, todos en liña separados por comas
 * Copiamos ese listado de códigos
-* Abrimos o arquivo [javascript.html](https://rawgit.com/eusonlito/eleccion-centro-academico/master/2016/secundaria/javascript.html) en calquera navegador (doble click)
+* Abrimos o arquivo [javascript.html](https://rawgit.com/eusonlito/eleccion-centro-academico/master/2016/secundaria/javascript.html) en calquera navegador
 * Donde pon `// AQUI VAI O LISTADO DE CODIGOS ESCOLLIDOS SEPARADOS POR COMAS`, borramos eso e nesa liña pegamos os códigos, quedando algo como:
 
 ```js
